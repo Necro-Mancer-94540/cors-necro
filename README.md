@@ -7,4 +7,4 @@ https://cors-necro.herokuapp.com/
 
 ### How to use:
 Add the desired url at the end of API url.
-Example- https://cors-necro.herokuapp.com/yourURL
+Example- [https://cors-necro.herokuapp.com/yourURL](#)
